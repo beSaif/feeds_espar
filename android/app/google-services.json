@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "376154425575",
+    "project_id": "feeds-espar",
+    "storage_bucket": "feeds-espar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376154425575:android:25d7113f97893ecfd5fa42",
+        "android_client_info": {
+          "package_name": "com.example.feeds_espar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfPgeseM9WGI_plmAhjlYOhtt1AboDUtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
